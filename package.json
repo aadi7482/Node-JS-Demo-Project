@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "name": "aws-ci-cd-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadi7482/Node-JS-Demo-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aadi7482/Node-JS-Demo-Project/issues"
+  },
+  "homepage": "https://github.com/aadi7482/Node-JS-Demo-Project#readme",
+  "description": ""
+}
